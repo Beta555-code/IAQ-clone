@@ -1,3 +1,4 @@
+import './metric.css';
 import React,{useEffect,useState} from 'react';
 import {Wind,Thermometer,Droplets,CloudFog,Cloud,Bell,Settings,LogOut,ChevronDown,AlertTriangle,CheckCircle2,Info,LayoutDashboard,History,MapPin,X} from 'lucide-react';
 import {LineChart,Line,XAxis,YAxis,CartesianGrid,Tooltip,ResponsiveContainer} from 'recharts';
